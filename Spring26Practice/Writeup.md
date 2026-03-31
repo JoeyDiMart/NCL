@@ -1,3 +1,28 @@
+# Open Source Intelligence
+
+## Ports (Easy)
+1. Q1 - 5 points
+What TCP port does the original, basic SMTP protocol operate on?
+- port 25 
+
+2. Q2 - 5 points
+What TCP port does the SOCKS protocol operate on?
+- port 1080
+
+3. Q3 - 5 points
+What TCP port does the rsync protocol operate on?
+- port 873
+
+4. Q4 - 5 points
+What TCP port does the modbus protocol operate on?
+- port 502
+
+5. Q5 - 5 points
+What TCP port does the SSH protocol operate on?
+- port 22
+
+
+
 # Enumeration & Exploitation
 
 ## Java++ (Easy)
