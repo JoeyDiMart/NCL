@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5d48432-ba68-4d9f-a297-4e22b6bd16e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/crypto4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crack_p3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag.7z" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag_hash.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iron.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iron_filtered.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newlist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smartbrute.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +60,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Spring26Practice" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Spring26Practice" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -72,6 +78,8 @@
       <workItem from="1774976001625" duration="338000" />
       <workItem from="1774976506812" duration="2958000" />
       <workItem from="1775953259087" duration="576000" />
+      <workItem from="1776019907043" duration="168000" />
+      <workItem from="1776038682293" duration="1304000" />
     </task>
     <servers />
   </component>
@@ -80,11 +88,13 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/NCL$type2.coverage" NAME="type2 Coverage Results" MODIFIED="1744585971784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NCL$crack_p3.coverage" NAME="crack_p3 Coverage Results" MODIFIED="1776039767031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NCL$newtype.coverage" NAME="newtype Coverage Results" MODIFIED="1744590851211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NCL$QRCode.coverage" NAME="QRCode Coverage Results" MODIFIED="1743557506453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NCL$md5Crack.coverage" NAME="md5Crack Coverage Results" MODIFIED="1743616546750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NCL$type3.coverage" NAME="type3 Coverage Results" MODIFIED="1744582223797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NCL$type1.coverage" NAME="type1 Coverage Results" MODIFIED="1744585160439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NCL$smartbrute.coverage" NAME="smartbrute Coverage Results" MODIFIED="1776039637957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NCL$PracticeGameS26.coverage" NAME="PracticeGameS26 Coverage Results" MODIFIED="1774977187718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spring26Practice" />
     <SUITE FILE_PATH="coverage/NCL$crypto4.coverage" NAME="crypto4 Coverage Results" MODIFIED="1775953800302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
